@@ -16,7 +16,7 @@
 - [Tecnologias usadas](#-tecnologias-usadas)
 - [Como fazer o download do projeto](#-como-fazer-o-download-do-projeto)
 
-## 🔖&nbsp; Sobre
+## 🔖 Sobre
 
 O projeto foi desenvolvimento com objetivo de solidificar meus conhecimentos em front-end, aplicando conceitos de bloco no HTML e utilizando CSS3 para estilizar e compor o layout.
 
