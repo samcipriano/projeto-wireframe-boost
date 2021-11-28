@@ -5,8 +5,9 @@
 ---
 
 <p align="center">
-    <a href="https://samcipriano.github.io/projeto-wireframe-boost/">
+    <a href="https://samcipriano.github.io/projeto-wireframe-boost/" target="_blank">
     <span>Acessar página DEMO</span>
+    </a>
 </p>
 
 # Index
