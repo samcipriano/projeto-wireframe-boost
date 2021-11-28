@@ -12,7 +12,7 @@
 
 # Índice
 
-- [Sobre](#-about)
+- [Sobre](#-sobre)
 - [Tecnologias usadas](#-tecnologias-usadas)
 - [Como fazer o download do projeto](#-como-fazer-o-download-do-projeto)
 
