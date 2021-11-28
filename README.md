@@ -36,7 +36,6 @@ Este projeto foi desenvolvido usando as seguintes tecnologias.
 
     - git clone https://github.com/samcipriano/projeto-wireframe-boost.git
     - Entrando no repositório
-    - Iniciando o projeto
    
 ---
 
