@@ -34,7 +34,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias.
 
 ## 🗂 Como fazer o download do projeto
 
-    - Clone o repositório
+    - git clone https://github.com/samcipriano/projeto-wireframe-boost.git
     - Entrando no repositório
     - Iniciando o projeto
    
