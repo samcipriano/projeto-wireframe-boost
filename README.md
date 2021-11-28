@@ -10,7 +10,7 @@
     </a>
 </p>
 
-# Index
+# Índice
 
 - [Sobre](#-about)
 - [Tecnologias usadas](#-tecnologias-usadas)
